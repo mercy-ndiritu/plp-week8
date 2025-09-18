@@ -67,3 +67,6 @@ Add support for discount codes & promotions
 Implement shipping tracking
 Introduce user roles & authentication
 Create stored procedures for common workflows
+
+
+<img width="1370" height="839" alt="Screenshot 2025-09-18 170105" src="https://github.com/user-attachments/assets/56d1d4c2-9ffb-4668-b85a-2560f17b6621" />
